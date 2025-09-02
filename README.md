@@ -64,8 +64,8 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
 
 ## Github Overview
 
-![Asif Azam's Github stats](https://github-readme-stats.vercel.app/api?username=AsifAzam2001&show_icons=true&count_private=true&hide=contribs&theme=dark)
-![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&layout=compact&theme=dark)
+![Asif Azam's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=AsifAzam2001&layout=compact&theme=dark)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&theme=dark)
 
 <!--
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
