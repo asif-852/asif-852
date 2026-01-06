@@ -6,7 +6,7 @@ B.Sc in CSE @RUET | Competitive Programmer | Web Dev & Machine Learning Enthusia
 
 Experienced in solving algorithmic problems through ACM-style problem solving and competitive programming contests, developing sharp analytical skills and logical reasoning abilities. Equipped with a robust understanding of fundamental Computer Science concepts and skilled in building web applications using modern technologies. Confident in learning on demand, adapting quickly to new technologies and ideas. Passionate about staying up to date with tech trends and always looking for ways to improve through practical exploration.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsifAzam2001&label=Profile%20views&color=0e75b6&style=flat" alt="Asif Azam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-852&label=Profile%20views&color=0e75b6&style=flat" alt="Asif Azam" /> </p>
 
 * 🌍  I'm based in Rajshahi, Bangladesh
 * ✉️  You can contact me at [asifazam2001@gmail.com](mailto:asifazam2001@gmail.com)
@@ -64,27 +64,27 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
 
 ## Github Overview
 
-![Asif Azam's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=AsifAzam2001&layout=compact&theme=dark)
-![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&theme=dark)
+![Asif Azam's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=asif-852&layout=compact&theme=dark)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-852&theme=dark)
 
 <!--
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;" width="50%">
-      <a href="https://github.com/AsifAzam2001">
-        <img alt="Stats" style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=AsifAzam2001&show_icons=true&count_private=true&theme=dark" />
+      <a href="https://github.com/asif-852">
+        <img alt="Stats" style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=asif-852&show_icons=true&count_private=true&theme=dark" />
       </a>
     </td>
     <td style="border: none; padding: 0;" width="50%">
-      <a href="https://github.com/AsifAzam2001">
-        <img alt="Streak" style="height: 250px;" src="https://github-readme-streak-stats.herokuapp.com?user=AsifAzam2001&theme=dark" />
+      <a href="https://github.com/asif-852">
+        <img alt="Streak" style="height: 250px;" src="https://github-readme-streak-stats.herokuapp.com?user=asif-852&theme=dark" />
       </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td colspan="2" style="border: none; padding: 0;">
-      <a href="https://github.com/AsifAzam2001">
-        <img alt="Top Languages" style="height: 250px; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&langs_count=8&layout=compact&theme=dark&hide=html,css,shell,batchfile,Tcl,lex,yacc,Awk,TeX" />
+      <a href="https://github.com/asif-852">
+        <img alt="Top Languages" style="height: 250px; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-852&langs_count=8&layout=compact&theme=dark&hide=html,css,shell,batchfile,Tcl,lex,yacc,Awk,TeX" />
       </a>
     </td>
   </tr>
