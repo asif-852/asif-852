@@ -8,7 +8,7 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
 
 
 * 🌍  I'm based in Rajshahi, Bangladesh
-* ✉️  You can contact me at [asifazam2001@gmail.com](mailto:asifazam2001@gmail.com)
+* ✉️  You can contact me at [asifazambiswas@gmail.com](mailto:asifazambiswas@gmail.com)
 
 ### Connect with me:
 
