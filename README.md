@@ -6,7 +6,6 @@ B.Sc in CSE @RUET | Competitive Programmer | Web Dev & Machine Learning Enthusia
 
 Experienced in solving algorithmic problems through ACM-style problem solving and competitive programming contests, developing sharp analytical skills and logical reasoning abilities. Equipped with a robust understanding of fundamental Computer Science concepts and skilled in building web applications using modern technologies. Confident in learning on demand, adapting quickly to new technologies and ideas. Passionate about staying up to date with tech trends and always looking for ways to improve through practical exploration.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-852&label=Profile%20views&color=0e75b6&style=flat" alt="Asif Azam" /> </p>
 
 * 🌍  I'm based in Rajshahi, Bangladesh
 * ✉️  You can contact me at [asifazam2001@gmail.com](mailto:asifazam2001@gmail.com)
